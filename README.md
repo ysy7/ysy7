@@ -1,5 +1,5 @@
 <div align=center> 
-  
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hello%2C+World!)](https://git.io/typing-svg).  -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=ffcce6&text=Hi!%20Im%20Seoyoung&fontAlign=40&fontColor=f95997&fontAlign=center)
   
  ## Welcom to my GitHub!👋

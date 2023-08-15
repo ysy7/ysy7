@@ -28,8 +28,7 @@ Tools
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=ffffff"/></br></br></br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysy7&layout=compact">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysy7&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ysy7&show_icons=true"><br>
 </div>
 
